@@ -1,0 +1,43 @@
+
+# Google Gemini API and LLM integration
+google-genai
+langchain
+langchain-core
+langchain-google-genai
+langchain-community
+
+# Vector database
+chromadb
+langchain-chroma
+
+# Embeddings and document processing
+sentence-transformers
+pypdf
+python-docx
+unstructured
+
+# Text splitting and tokenization
+tiktoken
+
+# Environment variables and configuration
+python-dotenv
+pydantic
+pydantic-settings
+
+# Backend API (optional)
+fastapi
+uvicorn[standard]
+
+# Frontend (optional, for a simple RAG UI)
+streamlit
+
+# Data handling and HTTP requests
+numpy
+pandas
+requests
+
+# File upload support (optional)
+python-multipart
+
+# Logging and progress display
+tqdm

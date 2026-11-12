@@ -5,6 +5,7 @@ langchain
 langchain-core
 langchain-google-genai
 langchain-community
+langchain-openai
 
 # Vector database
 chromadb
@@ -41,3 +42,6 @@ python-multipart
 
 # Logging and progress display
 tqdm
+
+certifi
+arxiv==1.4.8
